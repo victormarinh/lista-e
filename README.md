@@ -32,8 +32,8 @@ Lista-E é um sistema de anotações de tarefas para serem feitas, sendo no fund
 ## Telas ##
 
 ### Cadastrar Tarefas ###
-![Screenshot](./Assets/screens/create.png)
+![Screenshot](./src/screens/create.png)
 ### Ver todas as Tarefas ###
-![Screenshot](./Assets/screens/all.png)
+![Screenshot](./src/screens/all.png)
 ### Tarefas Pendentes ###
-![Screenshot](./Assets/screens/pendente.png)
+![Screenshot](./src/screens/pendente.png)
