@@ -2,7 +2,7 @@
 
 Lista-E é um sistema de anotações de tarefas para serem feitas, sendo no fundo um CRUD
 
-<strong>Pode testar aqui:</strong> http://victormarinh.epizy.com/projects/lista-e
+<strong>Em breve, link para testar:</strong> ???
 
 ## Techs Utilizadas ##
 	- HTML 5
